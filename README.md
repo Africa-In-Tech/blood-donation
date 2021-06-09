@@ -17,5 +17,7 @@ Blood donation system
 10. **Latifa Yari**, Software Engineer
 11. **Houssein Ahssimi**, Software Engineer
 12. **Bassirou Rabo**, Software Engineer
+13. **Ibrahim ALIO SANDA**, Couteau Suisse 🙂 : informaticien, programmation, gestion projet, stratégie, contact
+14. **Hevi Joël Komlan Senam**, Gestion de projet et Stratégie
 
 ## Planing
